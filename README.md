@@ -1,7 +1,8 @@
 - 👋 Experienced Creative Developer with a strong background in customer service.
-- 👀 Dedicated to creating high-quality HTML banners with animation to exceed clients' expectations.
-- 🌱 Skilled in communication and relationship-building to work collaboratively with clients to achieve their goals.
-- 💞️ Experience working abroad has given a global perspective and an ability to adapt to diverse cultural and business environments.
+- 🤖 Skilled in HTML5, CSS3, JavaScript, GSAP, and Three.js for engaging animations.
+- 🌱 Focused on digital asset optimization for cross-browser and device compatibility.
+- 🐱‍💻 Collaborative and adaptable, with a global perspective and commitment to learning.
+  
 
 <!---
 anastasiyanikalayeva/anastasiyanikalayeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
